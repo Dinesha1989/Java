@@ -8,7 +8,7 @@ public class Activity3_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//Initializing array
 		ArrayList<String> MyList = new ArrayList<String>();
 		
 		MyList.add("Dinesh");
